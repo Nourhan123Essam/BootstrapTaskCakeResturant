@@ -1,0 +1,15 @@
+.forHover, .addHover:hover{
+    color: white;
+    background-color: chocolate;
+}
+.forHover:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.forNav{
+    background-color: beige;
+    padding: 5px;
+}
+.MyCardHover:hover{
+    box-shadow: 5px 2px 5px 5px #888888;
+}
