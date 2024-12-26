@@ -11,8 +11,8 @@ A responsive website for a cake shop using Bootstrap, featuring visually appeali
 - Bootstrap
 
 ### Preview
-![Homepage Screenshot](Project Demo/Home.png)
-![Our Team Page Screenshot](Project Demo/Our Team.png)
-![Our work Page Screenshot](Project Demo/Our Work.png)
-![Contact Us Page Screenshot](Project Demo/Contact Us.png)
-![Footer Page Screenshot](Project Demo/Footer.png)
+![Homepage Screenshot](https://github.com/Nourhan123Essam/Bootstrap_Task_CakeShop/blob/master/Project%20Demo/Home.png)
+![Our Team Page Screenshot](https://github.com/Nourhan123Essam/Bootstrap_Task_CakeShop/blob/master/Project%20Demo/Our%20Team.png)
+![Our work Page Screenshot](https://github.com/Nourhan123Essam/Bootstrap_Task_CakeShop/blob/master/Project%20Demo/Our%20Work.png)
+![Contact Us Page Screenshot](https://github.com/Nourhan123Essam/Bootstrap_Task_CakeShop/blob/master/Project%20Demo/Contact%20Us.png)
+![Footer Page Screenshot](https://github.com/Nourhan123Essam/Bootstrap_Task_CakeShop/blob/master/Project%20Demo/Footer.png)
